@@ -1,0 +1,159 @@
+If min_support in apriori function is 0.6
+
+The ouput is:-
+
+Rule: ti_yes
+Support: 1.0
+Confidence: 1.0
+Lift: 1.0
+=====================================
+Rule: ch_yes -> ti_yes
+Support: 0.6666666666666666
+Confidence: 1.0
+Lift: 1.0
+=====================================
+Rule: chi_no -> ti_yes
+Support: 0.8333333333333334
+Confidence: 1.0
+Lift: 1.0
+=====================================
+------------------------------------------------------
+If min_support in apriori function is 0.8
+
+The ouput is:-
+
+Rule: ti_yes
+Support: 1.0
+Confidence: 1.0
+Lift: 1.0
+=====================================
+Rule: chi_no -> ti_yes
+Support: 0.8333333333333334
+Confidence: 1.0
+Lift: 1.0
+=====================================
+-------------------------------------------------------
+If min_support in apriori function is 0.5
+
+The ouput is:-
+
+Rule: ti_yes
+Support: 1.0
+Confidence: 1.0
+Lift: 1.0
+=====================================
+Rule: bun_no -> ch_yes
+Support: 0.5
+Confidence: 1.0
+Lift: 1.5
+=====================================
+Rule: bun_no -> ti_yes
+Support: 0.5
+Confidence: 1.0
+Lift: 1.0
+=====================================
+Rule: bun_yes -> chi_no
+Support: 0.5
+Confidence: 1.0
+Lift: 1.2
+=====================================
+Rule: bun_yes -> ti_yes
+Support: 0.5
+Confidence: 1.0
+Lift: 1.0
+=====================================
+Rule: ch_no -> chi_no
+Support: 0.5
+Confidence: 1.0
+Lift: 1.2
+=====================================
+Rule: ch_no -> co_no
+Support: 0.5
+Confidence: 1.0
+Lift: 2.0
+=====================================
+Rule: ch_no -> ti_yes
+Support: 0.5
+Confidence: 1.0
+Lift: 1.0
+=====================================
+Rule: co_yes -> ch_yes
+Support: 0.5
+Confidence: 1.0
+Lift: 1.5
+=====================================
+Rule: ti_yes -> ch_yes
+Support: 0.6666666666666666
+Confidence: 1.0
+Lift: 1.0
+=====================================
+Rule: chi_no -> co_no
+Support: 0.5
+Confidence: 1.0
+Lift: 1.2
+=====================================
+Rule: chi_no -> ti_yes
+Support: 0.8333333333333334
+Confidence: 1.0
+Lift: 1.0
+=====================================
+Rule: ti_yes -> cho_no
+Support: 0.5
+Confidence: 1.0
+Lift: 1.0
+=====================================
+Rule: ti_yes -> co_no
+Support: 0.5
+Confidence: 1.0
+Lift: 1.0
+=====================================
+Rule: ti_yes -> co_yes
+Support: 0.5
+Confidence: 1.0
+Lift: 1.0
+=====================================
+Rule: bun_no -> ti_yes
+Support: 0.5
+Confidence: 1.0
+Lift: 1.0
+=====================================
+Rule: bun_yes -> chi_no
+Support: 0.5
+Confidence: 1.0
+Lift: 1.0
+=====================================
+Rule: ch_no -> co_no
+Support: 0.5
+Confidence: 1.0
+Lift: 2.0
+=====================================
+Rule: ch_no -> ti_yes
+Support: 0.5
+Confidence: 1.0
+Lift: 1.0
+=====================================
+Rule: ch_no -> ti_yes
+Support: 0.5
+Confidence: 1.0
+Lift: 1.0
+=====================================
+Rule: chi_no -> ti_yes
+Support: 0.5
+Confidence: 1.0
+Lift: 1.0
+=====================================
+Rule: ti_yes -> co_yes
+Support: 0.5
+Confidence: 1.0
+Lift: 1.0
+=====================================
+Rule: chi_no -> ti_yes
+Support: 0.5
+Confidence: 1.0
+Lift: 1.0
+=====================================
+Rule: ch_no -> ti_yes
+Support: 0.5
+Confidence: 1.0
+Lift: 1.0
+=====================================
